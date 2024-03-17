@@ -40,11 +40,11 @@ The __dextools_tg_message_listener.py__ module is intended to be used as part of
 
 __Integration with Main Listener Script:__
 
-1. Ensure that tg_message_listener_main.py properly imports and invokes the handle_dextools_message function when appropriate messages are identified.
+1. Ensure that __tg_message_listener_main.py__ properly imports and invokes the __handle_dextools_message__ function when appropriate messages are identified.
 
 __2. Running Your Bot:__
 
-Start your bot by running the main script. dextools_tg_message_listener.py will automatically process relevant messages.
+Start your bot by running the main script. __dextools_tg_message_listener.py__ will automatically process relevant messages.
 
 ```bash
 python tg_message_listener_main.py
