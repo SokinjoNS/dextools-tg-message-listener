@@ -1,6 +1,6 @@
 # Dextools Telegram Message Listener
 
-The __dextools_tg_message_listener.py__ module is one of a crucial components of Telegram bot application, designed to process messages containing Dextools URLs. It extracts relevant cryptocurrency token addresses from these URLs and utilizes the telegram_alerts.py module to send formatted alerts to a specified Telegram chat or channel.
+The __dextools_tg_message_listener.py__ module is one of crucial components of Telegram bot application, designed to process messages containing Dextools URLs. It extracts relevant cryptocurrency token addresses from these URLs and utilizes the telegram_alerts.py module to send formatted alerts to a specified Telegram chat or channel.
 
 ## Features
 
