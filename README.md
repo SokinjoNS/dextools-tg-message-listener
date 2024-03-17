@@ -29,8 +29,9 @@ If not already installed, install Telethon and any other required packages:
 
 ```bash
 pip install telethon
-Configure Your Bot Credentials:
 ```
+
+__3. Configure Your Bot Credentials:__
 
 Make sure your __credentials_telegram.json__ is correctly set up with your __api_id__, __api_hash__, and __bot_token__ for Telethon authentication.
 
