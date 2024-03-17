@@ -15,7 +15,7 @@ __Prerequisites__
 - Python 3.6 or newer.
 - Access to the Telegram API through a registered Telegram bot.
 - The Telethon library for interacting with the Telegram API.
-- The telegram_alerts.py module properly set up in the same project.
+- The __telegram_alerts.py__ module properly set up in the same project.
 
 ## Installation
 
